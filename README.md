@@ -125,28 +125,3 @@ npm run preview
 ```
 
 ![image](https://github.com/user-attachments/assets/f9315a0a-66b6-46e3-baae-143535d662fc)
-
-5. The application can be stopped with Ctrl + C.<br>
-Step 4 must be repeated for each change to be visible.<br>
-<br>
-If changes are made to the code, these must be deployed so that they are displayed on the hosted GitHub Pages website.<br>
-First install the required packages as in step 3.<br>
-Then enter the following command:<br>
-<br>
-
-```
-npm run deploy
-```
-
-This commits changes in the gh-pages branch and updates the website.<br>
-A success message appears in the terminal:<br>
-
-![image](https://github.com/user-attachments/assets/fab6b039-34c0-4832-a1bd-c20295485ffb)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-<br>
-
-
-## Contact
-If you have any questions, please feel free to reach out via email: christian-schwanse (at) gmx.net
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
